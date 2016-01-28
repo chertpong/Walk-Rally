@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "jdbc:mysql://localhost:3306",
+    "database": "walk_rally",
+    "name": "db",
+    "connector": "mysql",
+    "user": "root",
+    "debug":true
+  }
+}
